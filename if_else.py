@@ -7,7 +7,7 @@
 # Greater Than: a > b
 # Less than or equal: a <= b
 # Greater than or equal: a >= b
-age = 100
+age = 24
 
 if age < 100:
     if age < 21:
