@@ -14,3 +14,5 @@ print(f"Empty List: {empty_list}")
 print(f"List: {fruits_list}")
 print(f"Retreiving a value: {fruits_list[3]}")
 print(f"List length: {len(fruits_list)}")
+
+#test push from new macbook
