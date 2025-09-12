@@ -13,7 +13,7 @@ catalog = [
     {
         "id": 6,
         "title": "Computer",
-        "price": 1200.00
+        "price": 1999.99
     },
     {
         "id": 5,
